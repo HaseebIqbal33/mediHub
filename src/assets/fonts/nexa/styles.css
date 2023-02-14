@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Nexa';
+    src: local('Nexa Light'), local('Nexa-Trial-ExtraLight'),
+        url('Nexa-Trial-ExtraLight.woff2') format('woff2'),
+        url('Nexa-Trial-ExtraLight.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nexa';
+    src: local('Nexa Thin'), local('Nexa-Trial-Thin'),
+        url('Nexa-Trial-Thin.woff2') format('woff2'),
+        url('Nexa-Trial-Thin.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nexa';
+    src: local('Nexa Light'), local('Nexa-Trial-Light'),
+        url('Nexa-Trial-Light.woff2') format('woff2'),
+        url('Nexa-Trial-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Nexa';
+    src: local('Nexa Regular'), local('Nexa-Trial-Regular'),
+        url('Nexa-Trial-Regular.woff2') format('woff2'),
+        url('Nexa-Trial-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nexa';
+    src: local('Nexa Bold'), local('Nexa-Trial-ExtraBold'),
+        url('Nexa-Trial-ExtraBold.woff2') format('woff2'),
+        url('Nexa-Trial-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nexa';
+    src: local('Nexa Bold'), local('Nexa-Trial-Bold'),
+        url('Nexa-Trial-Bold.woff2') format('woff2'),
+        url('Nexa-Trial-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nexa';
+    src: local('Nexa Black'), local('Nexa-Trial-Black'),
+        url('Nexa-Trial-Black.woff2') format('woff2'),
+        url('Nexa-Trial-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
